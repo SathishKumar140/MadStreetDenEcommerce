@@ -1,0 +1,11 @@
+{
+  "name": "madstreet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "http-server"
+  },
+  "author": "Sathish Kumar",
+  "license": "ISC"
+}
